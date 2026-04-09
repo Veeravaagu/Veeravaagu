@@ -122,9 +122,9 @@ Production-deployed full-stack blogging platform.
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Veeravaagu&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeravaagu&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Veeravaagu&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeravaagu&layout=compact&hide_border=true" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeravaagu&theme=default&hide_border=true)](https://github.com/Veeravaagu)
