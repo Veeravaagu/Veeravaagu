@@ -126,8 +126,6 @@ Production-deployed full-stack blogging platform.
   <img src="https://streak-stats.demolab.com?user=Veeravaagu&hide_border=true" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeravaagu&theme=default&hide_border=true)](https://github.com/Veeravaagu)
-
 ---
 
 ## 💼 Experience
