@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/veeravaagu-murugan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishal.m.muurugan@gmail.com)
-[![Live App](https://img.shields.io/badge/Live_App-430098?style=flat&logo=heroku&logoColor=white)](https://mydjangoapplication-e19111bdacb0.herokuapp.com/)
+[![Live App](https://img.shields.io/badge/Live_App-430098?style=flat&logo=render&logoColor=white)](https://django-project-p85n.onrender.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Veeravaagu&style=flat&color=0A66C2)](https://github.com/Veeravaagu)
 
 ---
@@ -109,7 +109,7 @@ Full-stack task management with real-time synchronisation across 100+ concurrent
 ### 📝 Blog Web Application *(Live)*
 > **Python · Django · PostgreSQL · AWS S3 · Heroku · Gunicorn**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-430098?style=flat&logo=heroku&logoColor=white)](https://mydjangoapplication-e19111bdacb0.herokuapp.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-430098?style=flat&logo=render&logoColor=white)](https://django-project-p85n.onrender.com/)
 
 Production-deployed full-stack blogging platform.
 
