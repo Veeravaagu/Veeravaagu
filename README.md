@@ -23,7 +23,6 @@ profile = {
     "stack"     : ["Python", "TypeScript", "Node.js", "React", "PostgreSQL", "AWS"],
     "systems"   : ["C++17", "B+ Tree", "Buffer Pool", "Disk-Based Storage"],
     "status"    : "Open to full-time SWE roles across the US",
-    "visa"      : "H-1B sponsorship required",
 }
 ```
 
@@ -158,4 +157,4 @@ Production-deployed full-stack blogging platform.
 
 ---
 
-*📍 Buffalo, NY · Open to full-time Software Engineer roles across the US · H-1B sponsorship required*
+*📍 Buffalo, NY · Open to full-time Software Engineer roles across the US*
