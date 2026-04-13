@@ -89,12 +89,4 @@ engineer = {
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Veeravaagu&hide_border=true" />
-</p>
-
----
-
-*📍 Buffalo, NY*
+*📍 Buffalo, NY* **Open to Relocation**
