@@ -7,7 +7,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Veeravaagu_Murugan/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Veeravaagu&style=flat&color=0A66C2)](https://github.com/Veeravaagu)
 
+---
+
 *📍 Buffalo, NY*, **Open to Relocation**
+
 ---
 
 ## About
