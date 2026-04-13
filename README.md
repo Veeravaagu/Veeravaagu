@@ -89,4 +89,4 @@ engineer = {
 
 ---
 
-*📍 Buffalo, NY* **Open to Relocation**
+*📍 Buffalo, NY*, **Open to Relocation**
