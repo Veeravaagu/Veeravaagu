@@ -91,9 +91,8 @@ engineer = {
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Veeravaagu&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeravaagu&layout=compact&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Veeravaagu&hide_border=true" />
 </p>
 
 ---
