@@ -41,15 +41,32 @@ engineer = {
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 
+---
+
+### Systems & Low-Level
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=flat)
+![Sockets](https://img.shields.io/badge/Sockets-4B8BBE?style=flat)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat\&logo=webrtc\&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-6E4C13?style=flat)
+![Memory Management](https://img.shields.io/badge/Memory_Management-8A2BE2?style=flat)
+![Database Internals](https://img.shields.io/badge/DB_Internals-B+Tree%2C_External_Sort-blue?style=flat)
+
+---
+
 ### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat\&logo=socketdotio\&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat\&logo=webrtc\&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat\&logo=auth0\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+
+---
 
 ### Frontend
 
@@ -57,6 +74,8 @@ engineer = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+---
 
 ### Databases
 
@@ -66,21 +85,33 @@ engineer = {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
 
+---
+
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_\(ECS%2C_S3%2C_ALB\)-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-blue?style=flat)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat\&logo=render\&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat\&logo=heroku\&logoColor=white)
 
+---
+
 ### AI & Testing
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=flat)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-6A5ACD?style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat\&logo=github\&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat\&logo=pytest\&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat\&logo=vitest\&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat\&logo=jest\&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat\&logo=playwright\&logoColor=white)
 
 ---
 
